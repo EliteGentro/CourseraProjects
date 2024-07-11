@@ -1,1 +1,1 @@
-# CourseraProjects
+# Responsive Design Projects
