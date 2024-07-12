@@ -108,6 +108,9 @@ figcaption{
     img{
         border-color: rgb(0, 0, 165);
     }
-
+    
+    a{
+        color: lightblue;
+    }
 
 }
