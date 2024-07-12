@@ -86,5 +86,28 @@ figcaption{
 }
 
 @media (prefers-reduced-motion) {
-    scroll-behavior: auto;
-  }
+    body{
+        scroll-behavior: auto;
+    }
+}
+
+@media (prefers-color-scheme: dark){
+    body{
+        background-color: black;
+    }
+
+    h1, h2, p{
+        color: white;
+    }
+
+    figcaption{
+        background-color: gray;
+        color: white;
+    }
+
+    img{
+        border-color: rgb(0, 0, 165);
+    }
+
+
+}
